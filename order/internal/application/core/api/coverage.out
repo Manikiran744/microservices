@@ -1,0 +1,8 @@
+mode: set
+github.com/Manikiran744/microservices/order/internal/application/core/api/api.go:18.78,23.2 1 1
+github.com/Manikiran744/microservices/order/internal/application/core/api/api.go:25.96,27.16 2 1
+github.com/Manikiran744/microservices/order/internal/application/core/api/api.go:27.16,29.3 1 1
+github.com/Manikiran744/microservices/order/internal/application/core/api/api.go:30.2,31.23 2 1
+github.com/Manikiran744/microservices/order/internal/application/core/api/api.go:31.23,42.3 7 1
+github.com/Manikiran744/microservices/order/internal/application/core/api/api.go:43.2,43.19 1 1
+github.com/Manikiran744/microservices/order/internal/application/core/api/api.go:46.84,48.2 1 0
